@@ -2,6 +2,9 @@
     "manifest_version":3,
     "version":"0.1",
     "name":"TubeLoop",
+    "permissions":[
+      "storage"
+    ],
     "host_permissions": [
         "*://*.youtube.com/"
       ],
